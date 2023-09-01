@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://velox-ezvwl7dg6a-uc.a.run.app"],
+      "responseHeader": ["Content-Type", "Access-Control-Allow-Headers"],
+      "method": ["GET", "HEAD", "DELETE", "PUT", "POST"],
+      "maxAgeSeconds": 3600
+    }
+]

@@ -1,0 +1,6 @@
+venv/
+velox_app/__pycache__/
+velox/__pycache__/
+velox_app/static/
+velox_app/templates/velox_app/
+velox/templates/

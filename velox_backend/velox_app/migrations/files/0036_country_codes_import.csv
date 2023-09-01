@@ -1,0 +1,134 @@
+starts_country,country,country_fullname
+ALG,Overseas,Algeria
+ANT,Overseas,Antigua & Barbuda
+ARG,South America,Argentina
+AUS,Australia,Australia
+AUT,Europe,Austria
+AZE,Overseas,Azerbaijan
+BAR,Overseas,Barbados
+BEL,Europe,Belgium
+BER,Overseas,Bermuda
+BHR,Asia,Bahrain
+BIH,Europe,Bosnia
+BLZ,Overseas,Belize
+BOL,Overseas,Bolivia
+BRZ,South America,Brazil
+BUL,Europe,Bulgaria
+BWI,Overseas,British West Indies
+CAN,North America,Canada
+CEY,Overseas,Ceylon
+CHI,South America,Chile
+CHN,Asia,China
+CHR,Europe,Czechoslovakia
+COL,South America,Colombia
+CRI,South America,Costa Rica
+CU,South America,Cuba
+CYP,Overseas,Cyprus
+CZE,Europe,Czechia
+DEN,Europe,Denmark
+DOM,Overseas,Dominican Republic
+ECU,Overseas,Ecuador
+EG,Europe,German Democratic Republic
+EGY,Asia,Egypt
+ENG,Europe,England
+FIJ,Overseas,Fiji
+FR ,Europe,France
+GB ,Europe,Great Britain
+GDP,Overseas,Guadaloupe
+GEO,Europe,Georgia
+GER,Europe,Germany
+GR ,Europe,Greece
+GTM,Overseas,Guatemala
+GUE,Overseas,Guernsey
+GUY,Overseas,Guyana
+HK ,Asia,Hong Kong
+HOL,Europe,Netherlands
+HRV,Europe,Croatia
+HUN,Europe,Hungary
+IND,Asia,India
+IOM,Overseas,Isle of Man
+IRA,Asia,Iran
+IRE,Europe,Ireland
+IRQ,Asia,Iraq
+ISR,Asia,Israel
+ITY,Europe,Italy
+JAM,Overseas,Jamaica
+JER,Overseas,Jersey
+JPN,Asia,Japan
+KAZ,Overseas,Kazakhstan
+KEN,Overseas,Kenya
+KOR,Asia,Korea
+KUW,Overseas,Kuwait
+KYR,Overseas,Kyrgyzstan
+LCA,Overseas,Saint Lucia
+LEB,Overseas,Lebanon
+LIB,Overseas,Libya
+LTU,Europe,Lithuania
+LUX,Europe,Luxemburg
+MAC,Asia,Macau
+MAL,Asia,Malaysia
+MAR,Overseas,Martinique
+MAU,Asia,Mauritius
+MDA,Overseas,Moldova
+MEX,South America,Mexico
+MON,Europe,Monaco
+MOR,Overseas,Morocco
+MTA,Overseas,Malta
+NAT,Asia,Japan
+NC,Overseas,New Caledonia
+NDO,Overseas,Indonesia
+NOR,Europe,Norway
+NZ ,Australia,New Zealand
+OM,Overseas,Oman
+PAK,Asia,Pakistan
+PAN,Overseas,Panama
+PER,South America,Peru
+PHI,Asia,Philippines
+PNG,Overseas,Papua-New Guinea
+POL,Europe,Poland
+POR,Europe,Portugal
+PR ,South America,Puerto Rico
+PRI,Europe,British Isles
+PRY,South America,Paraguay
+QA,Asia,Qatar
+RUM,Europe,Romania
+RUS,Europe,Russia
+SAF,Overseas,South Africa
+SDA,Asia,Saudi Arabia
+SEN,Overseas,Senegal
+SIN,Asia,Singapore
+SKN,Overseas,St Kitts & Nevis
+SLO,Europe,Slovak Republic
+SLV,South America,El Salvador
+SPA,Europe,Spain
+SRB,Europe,Serbia
+SRI,Asia,Sri Lanka
+SSD,Overseas,SOuth SUdan
+STV,Overseas,St Vincent & The Grenadines
+SU ,Europe,Soviet Union
+SUD,Overseas,Sudan
+SVN,Europe,Slovenia
+SWE,Europe,Sweden
+SWI,Europe,Switzerland
+SYR,Asia,Syria
+TAH,Overseas,Tahiti
+TAJ,Overseas,Tajiskistan
+THA,Overseas,Thailand
+TRI,Overseas,Trinidad
+TUN,Overseas,Tunisia
+TUR,Asia,Turkey
+TWN,Asia,Taiwan
+UAE,Asia,United Arab Emirates
+UKR,Europe,Ukraine
+UNK,Overseas,Unknown
+URU,South America,Uruguay
+USA,North America,U.S.A.
+UZB,Overseas,Uzbekistan
+VAN,Overseas,Vanuatu
+VEN,South America,Venezuela
+VNM,Overseas,Vietnam
+WSA,Overseas,Western Samoa
+YUG,Europe,Yugoslavia
+ZAM,Overseas,Zambia
+ZIM,Overseas,Zimbabwe
+ZZZ,Overseas,Unknown
